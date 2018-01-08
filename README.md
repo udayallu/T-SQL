@@ -9,3 +9,25 @@
 2. Query language for SQL Server and Azure SQL Database
 3. SQL is declarative, not procedural
 4. Describe what you want, don’t specify steps
+## SQL Statement Types
+### Data Manipulation Language (DML)
+Statements for querying and modifying data:
+1. SELECT
+2. INSERT
+3. UPDATE
+4. DELETE
+### Data Definition Language (DDL)
+Statements for defining database objects:
+1. CREATE
+2. ALTER
+3. DROP
+### Data Control Language (DCL)
+Statements for assigning security permissions:
+1. GRANT
+2. REVOKE
+3. DENY
+
+
+
+
+
